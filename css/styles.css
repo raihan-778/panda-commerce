@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.carousel-inner {
+  background: #feeae9;
+}
+.cetagories img {
+  width: 100px;
+}
+.watch {
+  padding: 5px 10px;
+  border-radius: 10px;
+  background: linear-gradient(152.07deg, #ff9c35 1.47%, #ffd019 97.17%);
+}
+.bag {
+  background: linear-gradient(180deg, #ff589b -0.01%, #ff136f 99.99%);
+  padding: 5px 10px;
+  border-radius: 10px;
+}
+.shoes {
+  background: linear-gradient(170.41deg, #4289ff -10.89%, #3f07f8 92.77%);
+  padding: 5px 10px;
+  border-radius: 10px;
+}
