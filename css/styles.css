@@ -9,6 +9,10 @@
 .cetagories img {
   width: 100px;
 }
+h4 {
+  text-align: center;
+  margin-top: 10px;
+}
 .watch {
   padding: 5px 10px;
   border-radius: 10px;
@@ -23,4 +27,13 @@
   background: linear-gradient(170.41deg, #4289ff -10.89%, #3f07f8 92.77%);
   padding: 5px 10px;
   border-radius: 10px;
+}
+footer {
+  background-color: #fff2f1;
+}
+input {
+  border: none;
+}
+input:focue {
+  /* outline: none; */
 }
